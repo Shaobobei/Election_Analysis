@@ -222,7 +222,7 @@ for county, voters in counties_dict.items():
 
 
 
-
+counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
 
 candidate_votes = int(input("How many votes did the candidate get in the election? "))
 total_votes = int(input("What is the total number of votes in the election? "))
@@ -234,3 +234,4 @@ message_to_candidate = (
 print(message_to_candidate)
 
 
+counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
