@@ -17,6 +17,7 @@
 
 ## Resource 
 •	Data Source (provided by Tom and Seth)- election results.csv
+
 •	Software/ program used- python 3.7 and Visual Studio code
 
 ## The Election Results
@@ -27,4 +28,6 @@
 Diana Degette is the clear winner with 73.8% of the votes, totaling 272,892 votes counted!!!
 Congratulation to Diana!!
 
-later on when and if Tom and Seth are assgined to do this project for other or in future elections, the can run this script to find the result faster
+Later on when and if Tom and Seth are assgined other or future election they can just run this script to find the results faster. We modified the orginal script to find the largest County turnout, so if the commison comes back and ask for a even more detailed report we can do that.
+Lets say they want to find how many votes and percentage each candidate got in each county, we can just added another "if condidntion" in this script and print that to our "election result.txt"
+or lets say they they want to find the total votes and percentage of each candidate for each State, all we would have to do is just change the "County" to "State"
