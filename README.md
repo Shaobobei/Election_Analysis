@@ -28,6 +28,6 @@
 Diana Degette is the clear winner with 73.8% of the votes, totaling 272,892 votes counted!!!
 Congratulation to Diana!!
 
-Later on when and if Tom and Seth are assgined other or future election they can just run this script to find the results faster. We modified the orginal script to find the largest County turnout, so if the commison comes back and ask for a even more detailed report we can do that.
-Lets say they want to find how many votes and percentage each candidate got in each county, we can just added another "if condidntion" in this script and print that to our "election result.txt"
+When and if Tom and Seth are assgined other or future elections they can just run this script to find the results faster. We modified the orginal script to find the largest County turnout, so if the commison comes back and ask for a even more detailed report we can do that.
+Lets say they want to find how many votes and percentage each candidate got in each county, we can just added another "if conditipn" in this script and print that to our "election result.txt"
 or lets say they they want to find the total votes and percentage of each candidate for each State, all we would have to do is just change the "County" to "State"
